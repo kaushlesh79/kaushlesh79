@@ -136,7 +136,7 @@ interested_in:
 ## 🐱 My GitHub Stats:
 <br>
 <div align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-1%2C00%20hrs%2045%20mins-blue" alt="Code Time" />
+  <img src="http://img.shields.io/badge/Code%20Time-100%20hrs%2045%20mins-blue" alt="Code Time" />
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousands%20lines%20of%20code-blue" alt="Lines of Code" />
 </div>
 <br>
