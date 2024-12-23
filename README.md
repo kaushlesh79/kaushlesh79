@@ -25,6 +25,8 @@
 }
 ```-->
 
+![](https://komarev.com/ghpvc/?username=kaushlesh79&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
+
 ``` yaml
 name: "Kaushlesh Chaurasiya"
 location: "India 🇮🇳"
