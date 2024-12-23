@@ -36,8 +36,8 @@ education:
   CGPA: "7.02/10"
 past_experiences:
   - role: "Frontend Developer ", "Appwars Technologies Pvt.Ltd"
-  - achievement: "National Runner Up", "Western Digital"
-  - achievement: "2nd Runner Up", "CODE4AI Chalenge"
+  - achievement: "National RunnerUp", "Western Digital"
+  - achievement: "2nd Runner Up", "CODE4AI Challenge"
   - achievement: "8th Place", "MHTECHIN Challenge"
 currently_learning:
   - "BlockChain"
