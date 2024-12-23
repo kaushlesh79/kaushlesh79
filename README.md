@@ -54,7 +54,7 @@ interested_in:
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://x.com/kaushlesh" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaushleshchaurasiya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kaushleshchaurasiya/"  /></a>
+<a href="https://www.linkedin.com/in/kaushleshchaurasiya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kaushleshchaurasiya" /></a>
 <a href="https://kaggle.com/kaushlesh798" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaushlesh798"  /></a>
 <a href="https://www.leetcode.com/KaushleshChaurasiya" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="kaushlesh79" /></a>
 
