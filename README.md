@@ -21,7 +21,7 @@
   "lastName": "Chaurasiya",
   "age": 21,
   "profession" : "Ungraduate Student",
-  "interned at" : "Salesline sde intern"
+  "interned at" : "Salesine sde intern"
 }
 ```-->
 
@@ -36,7 +36,7 @@ education:
   CGPA: "7.02/10"
 past_experiences:
   - role: "Frontend Developer ", "Appwars Technologies Pvt.Ltd"
-  - role: "SDE intern", "Salesline"
+  - role: "SDE intern", "Salesine"
   - achievement: "National Runner Up", "Western Digital"
   - achievement: "2nd Runner Up", "CODE4AI Chalenge"
   - achievement: "8th Place", "MHTECHIN Challenge"
