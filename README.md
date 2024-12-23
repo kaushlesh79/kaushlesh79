@@ -146,8 +146,9 @@ interested_in:
   <img src="https://github-readme-stats.vercel.app/api?username=kaushlesh79&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushlesh79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-##
 
+
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushlesh79/kaushlesh79/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushlesh79/kaushlesh79/output/github-snake.svg" />
@@ -156,7 +157,7 @@ interested_in:
 
 ##
 
-## 
+
 [![kaushlesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaushlesh79&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
