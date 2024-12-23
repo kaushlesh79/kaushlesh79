@@ -21,7 +21,7 @@
   "lastName": "Chaurasiya",
   "age": 21,
   "profession" : "Ungraduate Student",
-  "interned at" : "Salesine sde intern"
+  "interned at" : "Appwars Technologies Pvt.Ltd"
 }
 ```-->
 
@@ -36,13 +36,12 @@ education:
   CGPA: "7.02/10"
 past_experiences:
   - role: "Frontend Developer ", "Appwars Technologies Pvt.Ltd"
-  - role: "SDE intern", "Salesine"
   - achievement: "National Runner Up", "Western Digital"
   - achievement: "2nd Runner Up", "CODE4AI Chalenge"
   - achievement: "8th Place", "MHTECHIN Challenge"
 currently_learning:
-  - "BLockChain"
-  - "MAchine learning"
+  - "BlockChain"
+  - "Machine learning"
 interested_in:
   -  "Competitive Coding 👩‍💻", "Web Development" , "Cricket"
 
