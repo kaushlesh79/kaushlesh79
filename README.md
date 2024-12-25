@@ -103,7 +103,6 @@ interested_in:
 ![GraphQL](https://img.shields.io/badge/GraphQL-%E434C1.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ffcc00?style=for-the-badge&logo=openai&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
