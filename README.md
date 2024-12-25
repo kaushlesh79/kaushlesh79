@@ -43,7 +43,7 @@ currently_learning:
   - "BlockChain"
   - "Machine learning"
 interested_in:
-  -  "Competitive Coding 👩‍💻", "Web Development" , "Cricket"
+  -  "Competitive Coding 👩‍💻", "Web Development" , "Cricket" , Blockchain
 
 ```
 
