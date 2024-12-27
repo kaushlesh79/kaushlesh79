@@ -1,4 +1,4 @@
-<div align="center"; margin-bottom="60";>
+ <div align="center"; margin-bottom="60";>
   <img style="max-width:60/%;height:auto;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhldDY5Y201a2h2YzRiNGFyeTRhNmFxcHlmdnJ6eml5c3l4cDQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
