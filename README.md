@@ -166,6 +166,11 @@ interested_in:
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
    </a>
+
+
+
+![image](https://github.com/user-attachments/assets/8b50f6d6-49ed-4d95-b73e-240fdd0a8f99)
+
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
