@@ -148,6 +148,21 @@ interested_in:
 </div>
 
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/kaushlesh79">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaushlesh79&theme=flag_india" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushlesh79&theme=flag_india" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushlesh79&theme=flag_india" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaushlesh79&theme=github" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushlesh79&theme=github" height="180em" />
+</div>
+
+
+
+
+
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushlesh79/kaushlesh79/output/github-snake-dark.svg" />
