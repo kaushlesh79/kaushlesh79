@@ -33,7 +33,7 @@ location: "India 🇮🇳"
 education:
   degree: "BTech in Electronics and Comm. with Computer Science [2021-2025]"
   university: "Delhi Technological University(DTU)"
-  CGPA: "7.02/10"
+  CGPA: "7.15/10"
 past_experiences:
   - role: "Frontend Developer ", "Appwars Technologies Pvt.Ltd"
   - achievement: "National RunnerUp", "Western Digital"
