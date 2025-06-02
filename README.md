@@ -104,6 +104,7 @@ interested_in:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a> 
 </p>
 
+
 ### 🧰 Frameworks and libraries
 
 <p align="center">
@@ -124,6 +125,7 @@ interested_in:
   <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" ></a>
 </p>
 
+
 ### 🗄️ Databases, cloud hosting and deployment
 
 <p align="center">
@@ -137,6 +139,7 @@ interested_in:
   <a href="https://aws.amazon.com/"><img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> 
   <a href="https://colab.research.google.com/"><img alt="Google Colab" src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a> 
 </p>
+
 
 ### 💻 Software and tools
 
