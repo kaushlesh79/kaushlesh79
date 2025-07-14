@@ -228,10 +228,73 @@ interested_in:
 
 ##
 
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+ <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+    </td>
+    <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+    </td>
+ <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+   <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+ <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+
+
+<tr>
+<!--     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+    </td> -->
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+</tr>
+
+
+</table>
+
+<h2 align='center'><i>Top Repos</i></h2>
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushlesh79&repo=coders_groove-FRONTEND-&theme=vue-dark&hide_border=true" height="185">
+</a>
+</p>
+
+
+<br/>
+
 <div align="center">
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
    </a>
+
+
+
 
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
