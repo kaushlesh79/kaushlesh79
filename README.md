@@ -280,10 +280,11 @@ interested_in:
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<a href="https://github.com/kaushlesh79/coders_groove-FRONTEND-">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushlesh79&repo=coders_groove-FRONTEND-&theme=vue-dark&hide_border=true" height="185">
+<a href="https://github.com/kaushlesh79/coders_groove-FRONTEND">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushlesh79&repo=coders_groove-FRONTEND&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
+
 
 ---
 
