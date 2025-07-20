@@ -35,6 +35,8 @@
 }
 ```-->
 
+<h3 align="left">Profile Views &#128064</h3>
+
 ![](https://komarev.com/ghpvc/?username=kaushlesh79&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
 
 ``` yaml
