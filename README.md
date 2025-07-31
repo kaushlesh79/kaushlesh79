@@ -6,10 +6,12 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F749DC&random=false&width=535&height=73&lines=Hi!!+I'm+Kaushlesh+Chaurasiya" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Hello+There+!!;I'm+Kaushlesh+Chaurasiya;Aspiring+Software+Engineer;%26+a+FullStack+developer+" 
+    src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=700&lines=Hello+There+!!;I'm+Kaushlesh+Chaurasiya;Aspiring+Software+Engineer;%26+a+FullStack+developer+%26+GenAI+Enthusiast"
     alt="Typing SVG" 
   />
 </a>
+
+
 <img 
   src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" 
   width="70" 
