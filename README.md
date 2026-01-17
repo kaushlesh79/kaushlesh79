@@ -31,10 +31,15 @@
 {
   "firstName": "Kaushlesh",
   "lastName": "Chaurasiya",
-  "age": 21,
-  "profession" : "Ungraduate Student",
-  "interned at" : "Appwars Technologies Pvt.Ltd"
+  "age": 23,
+  "profession": "B.Tech Undergraduate Student",
+  "college": "Delhi Technological University",
+  "graduationYear": 2025,
+  "currentInternship": "Frontend Engineer Intern at Recur Club",
+  "previousInternship": "Appwars Technologies Pvt. Ltd.",
+  "skillsLearning": ["Java", "Spring Boot"]
 }
+
 ```-->
 
 <h3 align="left">Profile Views &#128064</h3>
