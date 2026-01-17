@@ -103,7 +103,7 @@ interests:
 
 <p>
 
-- 🏆 Ongoing research project "Epidemic Predictor" shortelisted as one of two 3 project in CODE4AI Challenge’.
+- 🏆 Ongoing research project "Epidemic Predictor" shortelisted as one of top 3 project in CODE4AI Challenge’.
 
 - 🥈 National Runners up at Western Digital Ideathon [WD Innovation Bazaar 2024] [Invited at thier Banglore Office Recieved Certificate and Incentives. .
 
