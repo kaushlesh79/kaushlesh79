@@ -49,20 +49,39 @@
 ``` yaml
 name: "Kaushlesh Chaurasiya"
 location: "India 🇮🇳"
+
 education:
-  degree: "BTech in Electronics and Comm. with Computer Science [2021-2025]"
-  university: "Delhi Technological University(DTU)"
-  CGPA: "7.15/10"
-past_experiences:
-  - role: "Frontend Developer ", "Appwars Technologies Pvt.Ltd"
-  - achievement: "National RunnerUp", "Western Digital"
-  - achievement: "2nd Runner Up", "CODE4AI Challenge"
-  - achievement: "8th Place", "MHTECHIN Challenge"
+  degree: "B.Tech in Electronics & Communication Engineering (CS Focus)"
+  university: "Delhi Technological University (DTU)"
+  duration: "2021–2025"
+  cgpa: "7.15/10"
+
+experience:
+  current:
+    role: "Frontend Engineer Intern"
+    company: "Recur Club"
+  past:
+    - role: "Frontend Developer Intern"
+      company: "Appwars Technologies Pvt. Ltd."
+
+achievements:
+  - title: "National Runner-Up"
+    event: "Western Digital"
+  - title: "2nd Runner-Up"
+    event: "CODE4AI Challenge"
+  - title: "8th Place"
+    event: "MHTECHIN Challenge"
+
 currently_learning:
-  - "BlockChain"
-  - "Machine learning"
-interested_in:
-  -  "Competitive Coding 👩‍💻", "Web Development" , "Cricket" , Blockchain
+  - "Java"
+  - "Spring Boot"
+
+interests:
+  - "Competitive Coding "
+  - "Web Development"
+  - "Cricket"
+  - "Blockchain"
+
 
 ```
 
