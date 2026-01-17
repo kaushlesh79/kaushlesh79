@@ -54,14 +54,14 @@ education:
   degree: "B.Tech in Electronics & Communication Engineering (CS Focus)"
   university: "Delhi Technological University (DTU)"
   duration: "2021–2025"
-  cgpa: "7.15/10"
+  cgpa: "7.23/10"
 
 experience:
   current:
     role: "Frontend Engineer Intern"
     company: "Recur Club"
   past:
-    - role: "Frontend Developer Intern"
+    - role: "SDE Intern"
       company: "Appwars Technologies Pvt. Ltd."
 
 achievements:
