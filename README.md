@@ -48,16 +48,10 @@ ML-based epidemic prediction system
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="50" />
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,mongodb,nodejs,express,tailwind" />
+</div>
+
 
 ---
 
