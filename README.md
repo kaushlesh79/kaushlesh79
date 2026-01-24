@@ -31,10 +31,11 @@ ML-based epidemic prediction system
 - Ranked **Top 3** in CODE4AI Challenge  
 - Built predictive models & interactive visualization  
 
-### 🔹 Recur Club Internship
-- Developed production-ready frontend features  
-- Optimized UI performance & improved UX for internal tools  
-- Worked with React, JavaScript, and modern frontend frameworks  
+### 🔹 Recur Club Internship (SEP 2025 - Present)
+- Developed production-ready frontend features
+- Optimized UI performance & improved UX for internal tools
+- Worked with React, JavaScript,Typescript ,MongoDB and modern frontend frameworks
+
 
 ---
 
