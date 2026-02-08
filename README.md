@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Coders Groove (Frontend)
+### 🔹 Coders Groove
 React + Node.js platform for learning & coding challenges  
 - Built reusable components & interactive UI dashboards  
 - Implemented authentication, REST APIs, and responsive design  
